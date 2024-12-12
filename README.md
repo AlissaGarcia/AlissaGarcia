@@ -11,6 +11,16 @@ Curiosidade: A galinha pintadinha se tornou um símbolo por aqui. Uma vez, apagu
 
 Então, se você encontrar uma galinha pintadinha por ai nos arquivos de algum código... é, provavelmente fui eu! 😂  
 
+---
+
+## I ❤️ HTML and CSS
+
+<div>
+<a href="https://github.com/AlissaGarcia">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaGarcia&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissaGarcia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ---
 
